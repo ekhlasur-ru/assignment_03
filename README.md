@@ -59,37 +59,27 @@ The ERD is created using Lucidchart and includes:
 - Relationship cardinality
 - Status fields
 
-🔗 **ERD Link**: (Add your Lucidchart public link here)
-
 ## Viva Video
 
 A short viva explanation video answering theory questions.
 
-🔗 **Viva Video Link**: (Add your YouTube / Drive link here)
-
-## Submission Links
-
-- GitHub Repository: (Your repo link)
-- ERD Link: (Your ERD link)
-- Viva Video Link: (Your video link)
-
-## 🔗 (Repository, Lucidchart, google drive) Link
+## 🔗 Submission Links
 
 GitHub repository Link here:  
-👉 [https://github.com/ekhlasur-ru/assignment_03](https://github.com/ekhlasur-ru/assignment_03)
+👉 [GitHub Repository](https://github.com/ekhlasur-ru/assignment_03)
 
 ---
 
 Lucidchart Link here:  
-👉 [https://lucid.app/lucidchart](https://lucid.app/lucidchart/201ab99a-1119-4e93-8478-674f45ec1aef/edit?viewport_loc=-456%2C-463%2C1238%2C1378%2C0_0&invitationId=inv_7eeb2d1b-fc7c-49b4-9db4-3b247c7eab7e)
+👉 [ERD Link](https://lucid.app/lucidchart/201ab99a-1119-4e93-8478-674f45ec1aef/edit?view_items=g_xgyQV.P0ZW&page=0_0&invitationId=inv_7eeb2d1b-fc7c-49b4-9db4-3b247c7eab7e)
 
 ---
 
-Lucidchart Link here:  
-👉 [https://drive.google.com](https://drive.google.com/drive/folders/18GIhNcG80VnYk7xsVz8Bl3ggLxa7R44Z?usp=sharing)
+Viva Video Link here:  
+👉 [Viva Video Link](https://drive.google.com/drive/folders/18GIhNcG80VnYk7xsVz8Bl3ggLxa7R44Z?usp=sharing)
 
 ---
 
 **Submitted by: Md. Ekhlasur Rahaman** <br>
-**Next Level Web development (Batch-6)**<br>
-**Assignment 03: Vehicle Rental System - Database Design & SQL Queries**
+**Assignment 03: Vehicle Rental System - Database Design & SQL Queries**<br>
+**Next Level Web development (Batch-6)**
