@@ -9,6 +9,8 @@ from bookings as b
 inner join users as u on b.user_id = u.user_id
 inner join vehicles as v on b.vehicle_id = v.vehicle_id
 
+
+
 select *
 from vehicles as v
 where not exists (
@@ -17,10 +19,14 @@ where not exists (
     where b.vehicle_id = v.vehicle_id
 );
 
+
+
 select *
 from vehicles
 where type = 'car'
   and status = 'available';
+
+
 
 select
     v.name as vehicle_name,

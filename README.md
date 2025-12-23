@@ -2,18 +2,17 @@
 
 ## Project Overview
 
-This project demonstrates database design and SQL query skills using a simplified Vehicle Rental System.
-It covers ERD design, table relationships, primary & foreign keys, and core SQL concepts such as JOIN, EXISTS, WHERE, GROUP BY and HAVING.
+This project shows basic database design and SQL queries using a simple Vehicle Rental System.
 
-## Objectives
+## What This Project Covers
 
 - Design an ERD with proper relationships
 - Understand and apply PK & FK
 - Write optimized SQL queries based on real-world scenarios
 
-## Database Entities
+## Database Tables
 
-The system consists of three main tables:
+The project has 3 tables:
 
 - Users
 - Vehicles
@@ -21,43 +20,23 @@ The system consists of three main tables:
 
 ### Relationships
 
-- One User can have many Bookings (1 → Many)
-- One Vehicle can have many Bookings (1 → Many)
-- Each Booking connects exactly one User and one Vehicle
+- One User → many Bookings
+- One Vehicle → many Bookings
+- Each Booking links one User and one Vehicle
 
-## Business Logic
+## Project Logic
 
 - Each user has a unique email
 - Each vehicle has a unique registration number
 - Bookings store rental period, status and total cost
 - Vehicles have availability status (available / rented / maintenance)
 
-## SQL Queries Explanation
+## SQL Queries Used
 
-### Query 1: JOIN
-
-Retrieves booking details along with customer name and vehicle name using INNER JOIN.
-
-### Query 2: EXISTS
-
-Finds vehicles that have never been booked using NOT EXISTS.
-
-### Query 3: WHERE
-
-Fetches available vehicles of a specific type (e.g. car).
-
-### Query 4: GROUP BY & HAVING
-
-Counts total bookings per vehicle and returns vehicles with more than two bookings.
-
-## ERD
-
-The ERD is created using Lucidchart and includes:
-
-- Primary Keys
-- Foreign Keys
-- Relationship cardinality
-- Status fields
+- JOIN → Get booking details with user and vehicle info
+- EXISTS → Find vehicles that were never booked
+- WHERE → Get available vehicles by type (eg: car)
+- GROUP BY & HAVING → Find vehicles booked more than two times
 
 ## Viva Video
 
